@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260164796245",
+    "firebase_url": "https://steemittest-293b6.firebaseio.com",
+    "project_id": "steemittest-293b6",
+    "storage_bucket": "steemittest-293b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260164796245:android:f10754591513a12b",
+        "android_client_info": {
+          "package_name": "com.example.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260164796245-datp040uignkql51hq9iehu5khnqu719.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWk-83qxKhFKBYlgZL3yZ9dsEqKCsOXbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260164796245-datp040uignkql51hq9iehu5khnqu719.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
